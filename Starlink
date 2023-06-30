@@ -2,6 +2,9 @@
 #EXTINF: -1 tvg-chno="1" tvg-country="El Salvador" tvg-group-title="1. Nacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Canal_12_El_Salvador_2010.png" ,Canal 12
 #EXTVLCOPT:network-caching=1000
 https://do0b1lvn4z8ni.cloudfront.net/hls/canal12.m3u8
-#EXTINF:30,Canal 26 (720p)
+#EXTINF: -1 tvg-chno="2" tvg-country="El Salvador" tvg-group-title="1. Nacional" tvg-logo="",Canal 26 (720p)
 #EXTVLCOPT:network-caching=1000
 http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:-1 tvg-chno="3" tvg-country="Estados Unidos" tvg-group-title="Noticias" tvg-logo="" ,DW Español (FHD)
+#EXTVLCOPT:network-caching=1000
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
