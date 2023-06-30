@@ -1,6 +1,7 @@
-#EXTINF:-1, tvg-id="CNN POR" tvg-name="PT: CNN PORTUGAL FHD" tvg-logo="https://canales.online/img/logo_canal/DSports.png" group-title="PORTUGAL",PT: CNN PORTUGAL FHD
-http://latinowebtvplus.com/embed/tycsports
-#EXTINF:-1, tvg-id="Cnn Portugal" tvg-name="PT: CNN Portugal " tvg-logo="" group-title="PORTUGAL",Saber: CNN Portugal 
-http://spain1.offshorerev.cc:80/SPIDER_Rlx9l6/uVN3WARhRs/106542
-#EXTINF:-1, tvg-id="" tvg-name="PT: Dizi Channel " tvg-logo="" group-title="PORTUGAL",PT: Dizi Channel 
-http://spain1.offshorerev.cc:80/SPIDER_Rlx9l6/uVN3WARhRs/106541
+#EXTM3U
+#EXTINF:120,Canal 12
+#EXTVLCOPT:network-caching=1000
+https://do0b1lvn4z8ni.cloudfront.net/hls/canal12.m3u8
+#EXTINF:30,Canal 26 (720p)
+#EXTVLCOPT:network-caching=1000
+http://200.115.193.177/live/26hd-720/playlist.m3u8
