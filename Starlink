@@ -1,8 +1,8 @@
-#EXTINF:-1 tvg-chno="1" tvg-id="" tvg-name="DSports" tvg-logo= "https://canales.online/img/logo_canal/DSports.png" group-title="DEPORTES",Dsports Internacional
-https://blackface.world/dtvpl.html?id=1059
-#EXTINF:-1 tvg-id="" tvg-name="PT: CNN PORTUGAL FHD" tvg-logo="" group-title="PORTUGAL",PT: CNN PORTUGAL FHD
+#EXTM3U
+
+#EXTINF:-1, tvg-id="CNN POR" tvg-name="PT: CNN PORTUGAL FHD" tvg-logo="https://canales.online/img/logo_canal/DSports.png" group-title="PORTUGAL",PT: CNN PORTUGAL FHD
 http://spain1.offshorerev.cc:80/SPIDER_Rlx9l6/uVN3WARhRs/106543
-#EXTINF:-1 tvg-id="" tvg-name="PT: CNN Portugal " tvg-logo="" group-title="PORTUGAL",PT: CNN Portugal 
+#EXTINF:-1, tvg-id="Cnn Portugal" tvg-name="PT: CNN Portugal " tvg-logo="" group-title="PORTUGAL",Saber: CNN Portugal 
 http://spain1.offshorerev.cc:80/SPIDER_Rlx9l6/uVN3WARhRs/106542
-#EXTINF:-1 tvg-id="" tvg-name="PT: Dizi Channel " tvg-logo="" group-title="PORTUGAL",PT: Dizi Channel 
+#EXTINF:-1, tvg-id="" tvg-name="PT: Dizi Channel " tvg-logo="" group-title="PORTUGAL",PT: Dizi Channel 
 http://spain1.offshorerev.cc:80/SPIDER_Rlx9l6/uVN3WARhRs/106541
