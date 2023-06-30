@@ -18,8 +18,11 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTVLCOPT:network-caching=1000
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-chno="7" tvg-country="Estados Unidos" tvg-group-title="Infantil" tvg-logo="https://images.pluto.tv/channels/619d5e6a093e7c0007489211/colorLogoPNG.png" group-title="Kids" , Baby Shark TV
+#EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/619d5e6a093e7c0007489211-alt.m3u8
 #EXTINF:-1 tvg-chno="8" tvg-country="Estados Unidos" tvg-group-title="Infantil" tvg-logo="https://images.pluto.tv/channels/5ebac49ce4dc8b00078b23bc/colorLogoPNG.png" group-title="Kids" , Babyfirst
+#EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/5ebac49ce4dc8b00078b23bc-alt.m3u8
 #EXTINF:-1 tvg-chno="9" tvg-country="Estados Unidos" tvg-group-title="Infantil" tvg-chno="1420" tvg-logo="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/colorLogoPNG.png" group-title="Kids" , Pluto TV Junior
+#EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/5dcde2ac4bc6c500094ab45b-alt.m3u8
