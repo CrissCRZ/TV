@@ -11,18 +11,18 @@ https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-country="El Salvador" tvg-group-title="1. Nacional" tvg-logo="",Canal 26 (720p)
 #EXTVLCOPT:network-caching=1000
 http://200.115.193.177/live/26hd-720/playlist.m3u8
-#EXTINF:-1 tvg-chno="5" tvg-country="Estados Unidos" tvg-group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" ,DW Español (FHD)
+#EXTINF:-1 tvg-chno="5" tvg-country="Estados Unidos" tvg-group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" group-title="Noticias" ,DW Español (FHD)
 #EXTVLCOPT:network-caching=1000
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-chno="6" tvg-country="Estados Unidos" tvg-group-title="Noticias" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqMPlr8sqSgavMk8Yyt4_bsS2Z7etjH3UZVvDjxfEQ=s900-c-k-c0x00ffffff-no-rj",CGTN Español (576p)
+#EXTINF:-1 tvg-chno="6" tvg-country="Estados Unidos" tvg-group-title="Noticias" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqMPlr8sqSgavMk8Yyt4_bsS2Z7etjH3UZVvDjxfEQ=s900-c-k-c0x00ffffff-no-rj" group-title="Noticias" ,CGTN Español (576p)
 #EXTVLCOPT:network-caching=1000
 https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 tvg-chno="7" tvg-country="Estados Unidos" tvg-group-title="Infantil" tvg-logo="https://images.pluto.tv/channels/619d5e6a093e7c0007489211/colorLogoPNG.png" group-title="Kids" , Baby Shark TV
+#EXTINF:-1 tvg-chno="7" tvg-country="Estados Unidos" tvg-group-title="Infantil" tvg-logo="https://images.pluto.tv/channels/619d5e6a093e7c0007489211/colorLogoPNG.png" group-title="Infantiles" , Baby Shark TV
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/619d5e6a093e7c0007489211-alt.m3u8
-#EXTINF:-1 tvg-chno="8" tvg-country="Estados Unidos" tvg-group-title="Infantil" tvg-logo="https://images.pluto.tv/channels/5ebac49ce4dc8b00078b23bc/colorLogoPNG.png" group-title="Kids" , Babyfirst
+#EXTINF:-1 tvg-chno="8" tvg-country="Estados Unidos" tvg-group-title="Infantil" tvg-logo="https://images.pluto.tv/channels/5ebac49ce4dc8b00078b23bc/colorLogoPNG.png" group-title="Infantiles" , Babyfirst
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/5ebac49ce4dc8b00078b23bc-alt.m3u8
-#EXTINF:-1 tvg-chno="9" tvg-country="Estados Unidos" tvg-group-title="Infantil" tvg-chno="1420" tvg-logo="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/colorLogoPNG.png" group-title="Kids" , Pluto TV Junior
+#EXTINF:-1 tvg-chno="9" tvg-country="Estados Unidos" tvg-group-title="Infantil" tvg-chno="1420" tvg-logo="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/colorLogoPNG.png" group-title="Infantiles" , Pluto TV Junior
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/5dcde2ac4bc6c500094ab45b-alt.m3u8
