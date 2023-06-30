@@ -14,6 +14,6 @@ http://200.115.193.177/live/26hd-720/playlist.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-country="Estados Unidos" tvg-group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" ,DW Español (FHD)
 #EXTVLCOPT:network-caching=1000
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-chno="6" tvg-country="Estados Unidos" tvg-group-title="Noticias" tvg-logo="https://vod.roams.es/images/logos/providers/es_ES_vod/cgtn-espanol/logo/cgtn-espanol_principal.svg",CGTN Español (576p)
+#EXTINF:-1 tvg-chno="6" tvg-country="Estados Unidos" tvg-group-title="Noticias" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqMPlr8sqSgavMk8Yyt4_bsS2Z7etjH3UZVvDjxfEQ=s900-c-k-c0x00ffffff-no-rj",CGTN Español (576p)
 #EXTVLCOPT:network-caching=1000
 https://livees.cgtn.com/1000e/prog_index.m3u8
