@@ -23,6 +23,11 @@ https://i.mjh.nz/PlutoTV/619d5e6a093e7c0007489211-alt.m3u8
 #EXTINF:-1 tvg-chno="101" tvg-country="Estados Unidos" tvg-group-title="Infantil" tvg-logo="https://images.pluto.tv/channels/5ebac49ce4dc8b00078b23bc/colorLogoPNG.png" group-title="Infantiles" , Babyfirst
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/5ebac49ce4dc8b00078b23bc-alt.m3u8
-#EXTINF:-1 tvg-chno="102" tvg-country="Estados Unidos" tvg-group-title="Infantil" tvg-chno="1420" tvg-logo="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/colorLogoPNG.png" group-title="Infantiles" , Pluto TV Junior
+#EXTINF:-1 tvg-chno="102" tvg-country="Estados Unidos" tvg-group-title="Infantil" tvg-logo="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/colorLogoPNG.png" group-title="Infantiles" , Pluto TV Junior
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/5dcde2ac4bc6c500094ab45b-alt.m3u8
+#EXTINF:-1 tvg-chno="150" tvg-country="Estados Unidos" tvg-group-title="Entretenimiento" tvg-logo="https://images.pluto.tv/channels/600728952b1776000776526d/colorLogoPNG.png" group-title="Entretenimiento" , Paramount+ Presenta
+https://i.mjh.nz/PlutoTV/600728952b1776000776526d-alt.m3u8
+#EXTINF:-1 tvg-chno="300" tvg-contry="Latinoamerica" tvg-group-title="Musica" tvg-logo="https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG.png" group-title="Musica" , MTV Pluto TV
+#EXTVLCOPT:network-caching=1000
+https://i.mjh.nz/PlutoTV/5fab088b3279760007d4e4fd-alt.m3u8
