@@ -1,33 +1,49 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="12" tvg-country="El Salvador" tvg-group-title="1. Nacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Canal_12_El_Salvador_2010.png" ,Canal 12
+#EXTINF:-1 tvg-chno="12" tvg-country="El Salvador" tvg-group-title="Nacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Canal_12_El_Salvador_2010.png" ,Canal 12
 #EXTVLCOPT:network-caching=1000
 https://do0b1lvn4z8ni.cloudfront.net/hls/canal12.m3u8
-#EXTINF:-1 tvg-chno="19" tvg-country="El Salvador" tvg-group-title="1. Nacional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Canal_19_El_Salvador.png/revision/latest/scale-to-width-down/200?cb=20210621012348&path-prefix=es" ,Megavisión Canal 19 (720p)
+#EXTINF:-1 tvg-chno="19" tvg-country="El Salvador" tvg-group-title="Nacional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Canal_19_El_Salvador.png/revision/latest/scale-to-width-down/200?cb=20210621012348&path-prefix=es" ,Megavisión Canal 19 (720p)
 #EXTVLCOPT:network-caching=1000
 https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
-#EXTINF:-1 tvg-chno="21" tvg-country="El Salvador" tvg-group-title="1. Nacional" tvg-logo="https://megavision.com.sv/wp-content/uploads/2022/10/logo-sin-senal-21-1024x576.png" ,Megavisión Canal 21 (720p)
+#EXTINF:-1 tvg-chno="21" tvg-country="El Salvador" tvg-group-title="Nacional" tvg-logo="https://megavision.com.sv/wp-content/uploads/2022/10/logo-sin-senal-21-1024x576.png" ,Megavisión Canal 21 (720p)
 #EXTVLCOPT:network-caching=1000
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
-#EXTINF:-1 tvg-chno="26" tvg-country="El Salvador" tvg-group-title="1. Nacional" tvg-logo="",Canal 26 (720p)
+#EXTINF:-1, tvg-chno="26" tvg-country="El Salvador" tvg-group-title="Nacional" tvg-logo="",Canal 26 (720p)
 #EXTVLCOPT:network-caching=1000
 http://200.115.193.177/live/26hd-720/playlist.m3u8
-#EXTINF:-1 tvg-chno="50" tvg-country="Estados Unidos" tvg-group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" group-title="Noticias" ,DW Español (FHD)
+#EXTINF:-1, tvg-chno="50" tvg-country="Estados Unidos" tvg-group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" group-title="Noticias" ,DW Español (FHD)
 #EXTVLCOPT:network-caching=1000
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-chno="51" tvg-country="Estados Unidos" tvg-group-title="Noticias" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqMPlr8sqSgavMk8Yyt4_bsS2Z7etjH3UZVvDjxfEQ=s900-c-k-c0x00ffffff-no-rj" group-title="Noticias" ,CGTN Español (576p)
+#EXTINF:-1, tvg-chno="51" tvg-country="Estados Unidos" tvg-group-title="Noticias" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqMPlr8sqSgavMk8Yyt4_bsS2Z7etjH3UZVvDjxfEQ=s900-c-k-c0x00ffffff-no-rj" group-title="Noticias" ,CGTN Español (576p)
 #EXTVLCOPT:network-caching=1000
 https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 tvg-chno="100" tvg-country="Estados Unidos" tvg-group-title="Infantil" tvg-logo="https://images.pluto.tv/channels/619d5e6a093e7c0007489211/colorLogoPNG.png" group-title="Infantiles" , Baby Shark TV
+#EXTINF:-1, tvg-chno="100" tvg-country="Estados Unidos" tvg-group-title="Infantil" tvg-logo="https://images.pluto.tv/channels/619d5e6a093e7c0007489211/colorLogoPNG.png" group-title="Infantiles" , Baby Shark TV
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/619d5e6a093e7c0007489211-alt.m3u8
-#EXTINF:-1 tvg-chno="101" tvg-country="Estados Unidos" tvg-group-title="Infantil" tvg-logo="https://images.pluto.tv/channels/5ebac49ce4dc8b00078b23bc/colorLogoPNG.png" group-title="Infantiles" , Babyfirst
+#EXTINF:-1, tvg-chno="101" tvg-country="Estados Unidos" tvg-group-title="Infantil" tvg-logo="https://images.pluto.tv/channels/5ebac49ce4dc8b00078b23bc/colorLogoPNG.png" group-title="Infantiles" , Babyfirst
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/5ebac49ce4dc8b00078b23bc-alt.m3u8
-#EXTINF:-1 tvg-chno="102" tvg-country="Estados Unidos" tvg-group-title="Infantil" tvg-logo="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/colorLogoPNG.png" group-title="Infantiles" , Pluto TV Junior
+#EXTINF:-1, tvg-chno="102" tvg-country="Estados Unidos" tvg-group-title="Infantil" tvg-logo="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/colorLogoPNG.png" group-title="Infantiles" , Pluto TV Junior
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/5dcde2ac4bc6c500094ab45b-alt.m3u8
-#EXTINF:-1 tvg-chno="150" tvg-country="Estados Unidos" tvg-group-title="Entretenimiento" tvg-logo="https://images.pluto.tv/channels/600728952b1776000776526d/colorLogoPNG.png" group-title="Entretenimiento" , Paramount+ Presenta
+#EXTINF:-1, tvg-chno="150" tvg-country="Latinoamerica" tvg-group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png", ESPN
+http://51.222.43.170:8001/030119/rvvbFNvJY8PQ/262192
+#EXTINF:-1, tvg-chno="151" tvg-country="Latinoamerica" tvg-group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png", ESPN 2
+http://191.102.90.97:8000/play/a08a/index.m3u8
+#EXTINF:-1, tvg-chno="152" tvg-country="Latinoamerica" tvg-group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/ESPN3_logo.svg", DirectV Sports
+http://51.222.43.170:8001/09Azunal/rrG6PbMWX3Ln/294582
+#EXTINF:-1, tvg-chno="153" tvg-country="Latinoamerica" tvg-group-title="Deportes" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png", DirectV Sports
+http://51.222.43.170:8001/09Azunal/rrG6PbMWX3Ln/294582
+#EXTINF:-1, tvg-chno="154" tvg-country="Latinoamerica" tvg-group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/FOX_Sports_logo.svg", Fox Sports
+http://51.222.43.170:8001/030119/rvvbFNvJY8PQ/1324
+#EXTINF:-1, tvg-chno="155" tvg-country="Latinoamerica" tvg-group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1920px-2015_Fox_sports_logo.svg.png", Fox Sports 2
+http://191.102.90.97:8000/play/a01s/index.m3u8
+#EXTINF:-1, tvg-chno="156" tvg-country="Latinoamerica" tvg-group-title="Deportes" tvg-logo="https://www.beinsports.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbein_logo.af017869.webp&w=3840&q=75", BEIN SPORTS
+http://51.222.43.170:8001/030119/rvvbFNvJY8PQ/244576
+#EXTINF:-1, tvg-chno="157" tvg-country="Latinoamerica" tvg-group-title="Deportes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGhfmtxrVByxKbK2rrs66ULpsBkiWQWmCv6Lq-NK4dPw&s", TyC Sport
+http://190.43.92.175:8989/play/a0wf/index.m3u8
+#EXTINF:-1 tvg-chno="300" tvg-country="Estados Unidos" tvg-group-title="Entretenimiento" tvg-logo="https://images.pluto.tv/channels/600728952b1776000776526d/colorLogoPNG.png" group-title="Entretenimiento" , Paramount+ Presenta
 https://i.mjh.nz/PlutoTV/600728952b1776000776526d-alt.m3u8
-#EXTINF:-1 tvg-chno="300" tvg-contry="Latinoamerica" tvg-group-title="Musica" tvg-logo="https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG.png" group-title="Musica" , MTV Pluto TV
+#EXTINF:-1, tvg-chno="400" tvg-contry="Latinoamerica" tvg-group-title="Musica" tvg-logo="https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG.png" group-title="Musica" , MTV Pluto TV
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/5fab088b3279760007d4e4fd-alt.m3u8
