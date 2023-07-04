@@ -29,9 +29,6 @@ https://i.mjh.nz/PlutoTV/5dcde2ac4bc6c500094ab45b-alt.m3u8
 #EXTINF:-1 tvg-chno="150" tvg-country="Latinoamerica" tvg-group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png", ESPN
 #EXTVLCOPT:network-caching=1000
 http://51.222.43.170:8001/030119/rvvbFNvJY8PQ/262192
-#EXTINF:-1 tvg-chno="151" tvg-country="Latinoamerica" tvg-group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png", ESPN 2
-#EXTVLCOPT:network-caching=1000
-http://191.102.90.97:8000/play/a08a/index.m3u8
 #EXTINF:-1 tvg-chno="153" tvg-country="Latinoamerica" tvg-group-title="Deportes" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png", DirectV Sports
 #EXTVLCOPT:network-caching=1000
 http://51.222.43.170:8001/09Azunal/rrG6PbMWX3Ln/294582
@@ -44,9 +41,6 @@ http://191.102.90.97:8000/play/a01s/index.m3u8
 #EXTINF:-1 tvg-chno="156" tvg-country="Latinoamerica" tvg-group-title="Deportes" tvg-logo="https://www.beinsports.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbein_logo.af017869.webp&w=3840&q=75", BEIN SPORTS
 #EXTVLCOPT:network-caching=1000
 http://51.222.43.170:8001/030119/rvvbFNvJY8PQ/244576
-#EXTINF:-1 tvg-chno="157" tvg-country="Latinoamerica" tvg-group-title="Deportes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGhfmtxrVByxKbK2rrs66ULpsBkiWQWmCv6Lq-NK4dPw&s", TyC Sport
-#EXTVLCOPT:network-caching=1000
-http://190.43.92.175:8989/play/a0wf/index.m3u8
 #EXTINF:-1 tvg-chno="300" tvg-country="Estados Unidos" tvg-group-title="Entretenimiento" tvg-logo="https://images.pluto.tv/channels/600728952b1776000776526d/colorLogoPNG.png" group-title="Entretenimiento" , Paramount+ Presenta
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/600728952b1776000776526d-alt.m3u8
