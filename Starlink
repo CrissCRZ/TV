@@ -52,10 +52,10 @@ http://181.78.8.90:16123/play/ch20
 http://51.222.43.170:8001/030119/rvvbFNvJY8PQ/244576
 #EXTINF:-1 tvg-chno="157" tvg-country="Latinoamerica" tvg-logo="http://l3d.us:25461/images/2aaf0c473413e80cde32fcf546039218.png" , TYC Sports HD
 #EXTVLCOPT:network-caching=1000
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/199511
+
 #EXTINF:-1 tvg-chno="158" tvg-country="Latinoamerica" tvg-logo="http://l3d.us:25461/images/d18efef240bd161e863d4e8d34a7bae2.png" , TUDN HD
 #EXTVLCOPT:network-caching=1000
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/155675
+
 #EXTINF:-1 tvg-chno="300" tvg-country="Estados Unidos" tvg-group-title="Entretenimiento" tvg-logo="https://images.pluto.tv/channels/600728952b1776000776526d/colorLogoPNG.png" group-title="Entretenimiento" , Paramount+ Presenta
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/600728952b1776000776526d-alt.m3u8
