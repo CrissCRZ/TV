@@ -8,10 +8,13 @@ https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
 #EXTINF:-1 tvg-chno="21" tvg-country="El Salvador" tvg-group-title="Nacional" tvg-logo="https://megavision.com.sv/wp-content/uploads/2022/10/logo-sin-senal-21-1024x576.png" ,Megavisión Canal 21 (720p)
 #EXTVLCOPT:network-caching=1000
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
-#EXTINF:-1 tvg-chno="50" tvg-country="Estados Unidos" tvg-group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" group-title="Noticias" ,DW Español (FHD)
+#EXTINF:-1 tvg-chno="50" tvg-country="Latinoamerica" tvg-group-title="Noticias" tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png", NOTICIERO UNIVISION
+#EXTVLCOPT:network-caching=1000
+https://linear-306.frequency.stream/dist/localnow/306/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-chno="52" tvg-country="Estados Unidos" tvg-group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" group-title="Noticias" ,DW Español (FHD)
 #EXTVLCOPT:network-caching=1000
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-chno="51" tvg-country="Estados Unidos" tvg-group-title="Noticias" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqMPlr8sqSgavMk8Yyt4_bsS2Z7etjH3UZVvDjxfEQ=s900-c-k-c0x00ffffff-no-rj" group-title="Noticias" ,CGTN Español (576p)
+#EXTINF:-1 tvg-chno="53" tvg-country="Estados Unidos" tvg-group-title="Noticias" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqMPlr8sqSgavMk8Yyt4_bsS2Z7etjH3UZVvDjxfEQ=s900-c-k-c0x00ffffff-no-rj" group-title="Noticias" ,CGTN Español (576p)
 #EXTVLCOPT:network-caching=1000
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-chno="100" tvg-country="Estados Unidos" tvg-group-title="Infantil" tvg-logo="https://images.pluto.tv/channels/619d5e6a093e7c0007489211/colorLogoPNG.png" group-title="Infantiles" , Baby Shark TV
