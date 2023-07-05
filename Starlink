@@ -8,9 +8,6 @@ https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
 #EXTINF:-1 tvg-chno="21" tvg-country="El Salvador" tvg-group-title="Nacional" tvg-logo="https://megavision.com.sv/wp-content/uploads/2022/10/logo-sin-senal-21-1024x576.png" ,Megavisión Canal 21 (720p)
 #EXTVLCOPT:network-caching=1000
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
-#EXTINF:-1 tvg-chno="26" tvg-country="El Salvador" tvg-group-title="Nacional" tvg-logo="",Canal 26 (720p)
-#EXTVLCOPT:network-caching=1000
-http://200.115.193.177/live/26hd-720/playlist.m3u8
 #EXTINF:-1 tvg-chno="50" tvg-country="Estados Unidos" tvg-group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" group-title="Noticias" ,DW Español (FHD)
 #EXTVLCOPT:network-caching=1000
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
