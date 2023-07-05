@@ -43,7 +43,7 @@ http://51.222.43.170:8001/09Azunal/rrG6PbMWX3Ln/294582
 http://51.222.43.170:8001/030119/rvvbFNvJY8PQ/1324
 #EXTINF:-1 tvg-chno="155" tvg-country="Latinoamerica" tvg-group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1920px-2015_Fox_sports_logo.svg.png", Fox Sports 2
 #EXTVLCOPT:network-caching=1000
-http://191.102.90.97:8000/play/a01s/index.m3u8
+http://181.78.8.90:16123/play/ch20
 #EXTINF:-1 tvg-chno="156" tvg-country="Latinoamerica" tvg-group-title="Deportes" tvg-logo="https://www.beinsports.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbein_logo.af017869.webp&w=3840&q=75", BEIN SPORTS
 #EXTVLCOPT:network-caching=1000
 http://51.222.43.170:8001/030119/rvvbFNvJY8PQ/244576
