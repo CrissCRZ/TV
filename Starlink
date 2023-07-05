@@ -29,10 +29,10 @@ https://i.mjh.nz/PlutoTV/5dcde2ac4bc6c500094ab45b-alt.m3u8
 #EXTINF:-1 tvg-chno="150" tvg-country="Latinoamerica" tvg-group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png", ESPN
 #EXTVLCOPT:network-caching=1000
 http://51.222.43.170:8001/030119/rvvbFNvJY8PQ/262192
-#EXTINF:-1 tvg-chno="151" tvg-country="Latinoamerica" tvg-group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png", ESPN 2
+#EXTINF: 1 tvg-chno="151" tvg-country="Latinoamerica" tvg-group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png", ESPN 2
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.90:16123/play/ch17
-#EXTINF:-1 tvg-chno="152" tvg-country="Latinoamerica" tvg-group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png", ESPN 3
+#EXTINF: 2 tvg-chno="152" tvg-country="Latinoamerica" tvg-group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png", ESPN 3
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.90:16123/play/ch18 
 #EXTINF:-1 tvg-chno="153" tvg-country="Latinoamerica" tvg-group-title="Deportes" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png", DirectV Sports
