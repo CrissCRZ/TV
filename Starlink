@@ -14,6 +14,8 @@ https://linear-306.frequency.stream/dist/localnow/306/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-chno="50" tvg-country="Latinoamerica" tvg-group-title="Noticias" tvg-logo="http://x.playerlatino.live/cnn.png" ,CNN en Español
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/136
+#EXTINF:-1 group-title="Noticias", CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-chno="52" tvg-country="Estados Unidos" tvg-group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" group-title="Noticias" ,DW Español (FHD)
 #EXTVLCOPT:network-caching=1000
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
