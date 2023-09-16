@@ -1,16 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="5" tvg-country="El Salvador" tvg-group-title="Nacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Canal_12_El_Salvador_2010.png" ,Canal TCS HD
+#EXTVLCOPT:network-caching=1000
+https://secure-video.tcsgo.com/tcshd/index720p30360p30_20200822T210827.m3u8
 #EXTINF:-1 tvg-chno="12" tvg-country="El Salvador" tvg-group-title="Nacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Canal_12_El_Salvador_2010.png" ,Canal 12
 #EXTVLCOPT:network-caching=1000
 https://d273tvzn6z86cs.cloudfront.net/Canal12SV/d8d7dedcfe37a9a9da9d9f69058b82b7.sdp/playlist.m3u8
 #EXTINF:-1 tvg-chno="19" tvg-country="El Salvador" tvg-group-title="Nacional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Canal_19_El_Salvador.png/revision/latest/scale-to-width-down/200?cb=20210621012348&path-prefix=es" ,Megavisión Canal 19 (720p)
 #EXTVLCOPT:network-caching=1000
-https://rr3---sn-9gv7zn7y.googlevideo.com/videoplayback?expire=1694912104&ei=6N0FZaKeCfO22roPq-2WsAI&ip=2605:59c8:721e:f100:bc1a:e0d2:3ac9:913f&id=7b405bd2b75e0dc5&itag=18&source=youtube&requiressl=yes&mh=uv&mm=31&mn=sn-9gv7zn7y&ms=au&mv=m&mvi=3&pl=42&susc=gvp&acao=yes&ctier=L&mime=video/mp4&vprv=1&dur=27.477&lmt=1692872257183394&mt=1694882778&txp=6300224&sparams=expire,ei,ip,id,itag,source,requiressl,susc,acao,ctier,mime,vprv,dur,lmt&sig=AOq0QJ8wRQIgLhXTt6rsA-fUC-88e5BhRhy1teG5f-YdWJd7G7H9hRoCIQCQr9AnJoYYz8ksX7EuSPHdYJWwaoUQytNcZNL18jz1gQ==&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIhANB3FHQtHHqPCw9-YF2GlfoFjOPJUG05DQ3z38yWZzbHAiATclv2UTb6evtTn2DVaU-EYGV153V-RoxmDs2Ncza2sw==&cpn=Ed0aCcn3Xr-ET8R2
-#EXTINF:-1 tvg-chno="21" tvg-country="El Salvador" tvg-group-title="Nacional" tvg-logo="https://megavision.com.sv/wp-content/uploads/2022/10/logo-sin-senal-21-1024x576.png" ,Megavisión Canal 21 (720p)
+https://mgv-channel19.univtec.com/hls/live/2093190/MGV_CHANNEL19/master.m3u8
+#EXTINF:-1 tvg-chno="21" tvg-country="El Salvador" tvg-group-title="Nacional" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/196b71be31a34959e939147b7821a24c.webp" ,Megavisión Canal 21 (720p)
 #EXTVLCOPT:network-caching=1000
-https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8
+https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
 #EXTINF:-1 tvg-chno="22" tvg-country="El Salvador" tvg-group-title="Nacional" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/87f15abaa8357cdacb05e7941cfe79b4.webp" ,Canal TVX (720p)
 #EXTVLCOPT:network-caching=1000
-https://usher.ttvnw.net/api/channel/hls/canaltvx.m3u8?acmb=e30%3D&allow_source=true&fast_bread=true&p=491726&play_session_id=50adc1b21a08251d302c11a21f80dc5a&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=09d091702f37e0f52fdd22736a1f19b1173993a1&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22blocked_user%22%3Afalse%2C%22channel%22%3A%22canaltvx%22%2C%22channel_id%22%3A555123885%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22J1mOWh45mcpcHEqqPHagLsrN2jJ2wtOd%22%2C%22expires%22%3A1694884255%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22popout%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22restricted_banned_user%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3A264361168%2C%22user_ip%22%3A%22138.84.52.47%22%2C%22version%22%3A2%7D&transcode_mode=vbr_v2&cdm=wv&player_version=1.21.0
+https://usher.ttvnw.net/api/channel/hls/canaltvx.m3u8?acmb=e30%3D&allow_source=true&fast_bread=true&p=1503794&play_session_id=aa47c30a3a04c4b744af02f194ee861f&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=69f3aa2e78ee86d1ec046ec4fb2c9d8939dd5fe4&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22blocked_user%22%3Afalse%2C%22channel%22%3A%22canaltvx%22%2C%22channel_id%22%3A555123885%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22J1mOWh45mcpcHEqqPHagLsrN2jJ2wtOd%22%2C%22expires%22%3A1694885641%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22popout%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22restricted_banned_user%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3A264361168%2C%22user_ip%22%3A%22138.84.52.47%22%2C%22version%22%3A2%7D&transcode_mode=vbr_v2&cdm=wv&player_version=1.21.0
+#EXTINF:-1 tvg-chno="33" tvg-country="El Salvador" tvg-group-title="Nacional" tvg-logo="https://canal33.tv/home/wp-content/uploads/2019/08/200.png" ,Canal 33 (720p)
+#EXTVLCOPT:network-caching=1000
+https://5e50264bd6766.streamlock.net/canal33/smil:canal33.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNi8yMDIzIDU6MjU6MjQgUE0maGFzaF92YWx1ZT1lWkgySGVxbS85THp5bHYva0JSMktBPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==&DVR
 
 ------NOTICIAS-------
 
@@ -59,7 +65,7 @@ https://i.mjh.nz/PlutoTV/6254598f5083f800076d8563-alt.m3u8
 
 #EXTINF:-1 tvg-chno="154" tvg-country="Latinoamerica" tvg-group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/FOX_Sports_logo.svg", Fox Sports
 #EXTVLCOPT:network-caching=1000
-4
+
 #EXTINF:-1 tvg-chno="155" tvg-country="Latinoamerica" tvg-group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1920px-2015_Fox_sports_logo.svg.png", Fox Sports 2
 #EXTVLCOPT:network-caching=1000
 
@@ -68,7 +74,7 @@ https://i.mjh.nz/PlutoTV/6254598f5083f800076d8563-alt.m3u8
 
 #EXTINF:-1 tvg-chno="157" tvg-country="Latinoamerica" tvg-logo="http://l3d.us:25461/images/2aaf0c473413e80cde32fcf546039218.png" , TYC Sports HD
 #EXTVLCOPT:network-caching=1000
-
+https://pro3.proedge01.xyz/live/STe3bf0b188307d13.m3u8
 #EXTINF:-1 tvg-chno="158" tvg-country="Latinoamerica" tvg-logo="http://l3d.us:25461/images/d18efef240bd161e863d4e8d34a7bae2.png" , TUDN HD
 #EXTVLCOPT:network-caching=1000
 
@@ -80,3 +86,7 @@ https://i.mjh.nz/PlutoTV/600728952b1776000776526d-alt.m3u8
 #EXTINF:-1 tvg-chno="400" tvg-contry="Latinoamerica" tvg-group-title="Musica" tvg-logo="https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG.png" group-title="Musica" , MTV Pluto TV
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/PlutoTV/5fab088b3279760007d4e4fd-alt.m3u8
+#EXTINF:-1 tvg-chno="900" tvg-contry="Latinoamerica" tvg-group-title="Musica" tvg-logo="https://ww.cinecalidad.foo/wp-content/uploads/2023/08/qqXTerrQYwg9pIMhb1GFbxa3WUz-400x600.jpg" group-title="Musica" , Spiderverse
+#EXTVLCOPT:network-caching=1000
+https://i.mjh.nz/PlutoTV/5fab088b3279760007d4e4fd-alt.m3u
+https://delivery-node-5ytyoi3qo2ns2kik.voe-network.net/engine/hls2/01/09298/vxfjyhkf10gt_,n,.urlset/master.m3u8?t=So1plZV_wlCMQ8cjNAThLCR28El4UHwqcG_sNWRqjUo&s=1694885938&e=14400&f=46490237&node=delivery-node-5ytyoi3qo2ns2kik.voe-network.net&i=138.84&sp=2500&asn=1
